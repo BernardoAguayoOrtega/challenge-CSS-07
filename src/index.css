@@ -25,10 +25,9 @@ img {
     width: 100%;
 }
 
-a {
-    text-decoration: none;
-    color: #7173ef;
-    text-transform: uppercase;
+main,
+.total-container {
+    color: black;
 }
 
 
