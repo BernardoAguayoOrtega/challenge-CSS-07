@@ -66,6 +66,31 @@ nav {
 }
 
 
+/*Main*/
+
+main {
+    padding: 1rem;
+}
+
+
+/*item container*/
+
+.item-container {
+    display: flex;
+}
+
+
+/*total container*/
+
+.total-container {
+    padding: 1rem;
+}
+
+.total-container div {
+    display: flex;
+}
+
+
 /*media small and medium mobile*/
 
 @media screen and (min-width:320px) and (max-width:375px) {
